@@ -1,6 +1,6 @@
 # Feature-Sensitivity-analysis
 
-This repository contains an example of feature sensitivity analysis using Support Vector Regression (SVR).
+This repository contains an example of feature sensitivity analysis using Support Vector Regression (SVR). Data is included in the code.
 
 ## Workflow
 
